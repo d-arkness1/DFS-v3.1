@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: rustedServer technology servers
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 6a4798450cca8fa489582886044ce97d, type: 3}
   description: these servers use a unique technology that ensures all data is wiped
     from the server's RAM every time it is rebooted, reducing the risk of data leaks
     or breaches.

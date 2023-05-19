@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: MediaStreamer DNS servers
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: d774fb1fcdbaefc418d57bfaf4668371, type: 3}
   description: these servers allow users to access content that is not normally available
     in their region by changing their device's DNS settings, without using a VPN
     connection.

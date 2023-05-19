@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Dedicated IP servers
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: d88c67fd36ca1174d99a3b484c2831c5, type: 3}
   description: these servers allow users to have a static, dedicated IP address that
     is not shared with other users, providing greater control over online activity
     and potentially better performance.
