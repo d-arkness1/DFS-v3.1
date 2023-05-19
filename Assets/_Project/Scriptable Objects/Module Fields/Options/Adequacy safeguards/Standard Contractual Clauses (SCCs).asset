@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
+  m_Name: Standard Contractual Clauses (SCCs)
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: a52e4946bdb855b4e96cd3d8a126fa35, type: 3}
+  description: SCCs are pre-approved legal contracts that specify the obligations
+    of data controllers and processors when transferring personal data. They are
+    used to ensure that the data protection rights of individuals are upheld when
+    data is transferred outside the EU or EEA.

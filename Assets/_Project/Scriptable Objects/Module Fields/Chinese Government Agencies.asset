@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599834fad36d85f459ef1722ebb34745, type: 3}
+  m_Name: Chinese Government Agencies
+  m_EditorClassIdentifier: 
+  options:
+  - {fileID: 11400000, guid: 831abb4a3c014da46a778735a1e8832e, type: 2}
+  - {fileID: 11400000, guid: 7d2a0d6d1bbd5a340b7d22b0d927b0ed, type: 2}
+  - {fileID: 11400000, guid: 06a66d61d26f9fb4db63b12d075f5b26, type: 2}
+  - {fileID: 11400000, guid: 2c9ab8436bf915745b9ef1b14083b84d, type: 2}
+  - {fileID: 11400000, guid: a4c79b425423a9f44a51498f30e025c2, type: 2}
+  - {fileID: 11400000, guid: 2b44e730128f8504b9c5747809bfc804, type: 2}
+  - {fileID: 11400000, guid: 22057a277943a174290699f05a99818a, type: 2}
+  - {fileID: 11400000, guid: c0a233a37d6b5a4408f7d32e48fe72d2, type: 2}
+  - {fileID: 11400000, guid: a880df2e8e16ed546bc77271a77fc313, type: 2}
+  - {fileID: 11400000, guid: 6804f966f9f07cc498800903117c5deb, type: 2}
+  - {fileID: 11400000, guid: 86c2b320626b01a45a5793d4899b2a07, type: 2}
+  - {fileID: 11400000, guid: 65bcf6c1156682d45ac7c913762c9561, type: 2}

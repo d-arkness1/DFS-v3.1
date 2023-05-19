@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
+  m_Name: Pseudonymisation and Anonymisation
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: 78b4a20ab271c434cb2350f25c726c72, type: 3}
+  description: Pseudonymisation and anonymisation are techniques used to mask personal
+    data so that individuals cannot be identified. Pseudonymisation involves replacing
+    identifying information with a pseudonym, while anonymisation involves removing
+    identifying information altogether. These techniques can be used to reduce the
+    risks associated with transferring personal data.

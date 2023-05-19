@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
+  m_Name: Compliance Management
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 536bf506c20b3c1418b18c9e2b03019d, type: 3}
+  description: 
+  identifiers: {fileID: 11400000, guid: 5332b689bfb83d2488ae61f525ff4fa8, type: 2}
+  fields:
+  - {fileID: 11400000, guid: 0123e69d00d418d4ba1df002c88b9ec7, type: 2}
+  - {fileID: 11400000, guid: 1f1c2651bf7afba4d97694b45d01933c, type: 2}
+  - {fileID: 11400000, guid: bf66def00b469404e830cc2180742978, type: 2}
+  - {fileID: 11400000, guid: 04e4c5de61319e94e995aa6ec36897cf, type: 2}

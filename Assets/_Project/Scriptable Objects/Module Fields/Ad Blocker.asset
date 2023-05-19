@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599834fad36d85f459ef1722ebb34745, type: 3}
+  m_Name: Ad Blocker
+  m_EditorClassIdentifier: 
+  options:
+  - {fileID: 11400000, guid: 9d368993a4545514c93939701a63c419, type: 2}
+  - {fileID: 11400000, guid: c07b9490e0ed64f428710f268656a6c0, type: 2}
+  - {fileID: 11400000, guid: 8c7ffb54bd70c3341bbbfafa1823fb09, type: 2}
+  - {fileID: 11400000, guid: 2c722e99fb9168947b3e6ceacafa056c, type: 2}
+  - {fileID: 11400000, guid: d2f98efe2ad8062498a437943e2f3818, type: 2}

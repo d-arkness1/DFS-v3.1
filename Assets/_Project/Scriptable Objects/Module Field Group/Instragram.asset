@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
+  m_Name: Instragram
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 53124d5595f723f4f8f82dd4d947268c, type: 3}
+  description: 
+  identifiers: {fileID: 11400000, guid: ab62b4dd3fc7da9469e4e92edd5c60b8, type: 2}
+  fields:
+  - {fileID: 11400000, guid: 204a0972864dad843801235c38479a8d, type: 2}
+  - {fileID: 11400000, guid: 562fa292f04592442be6cfdd27dbc9f0, type: 2}
+  - {fileID: 11400000, guid: 0ea42d8f6efed494095a57aac1ffece0, type: 2}
+  - {fileID: 11400000, guid: fc9d39ee8676c0342b49e2609e068ddc, type: 2}

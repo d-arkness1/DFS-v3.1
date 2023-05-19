@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599834fad36d85f459ef1722ebb34745, type: 3}
+  m_Name: Data Retention
+  m_EditorClassIdentifier: 
+  options:
+  - {fileID: 11400000, guid: c71c20c15ae86b64c90b29900415e691, type: 2}
+  - {fileID: 11400000, guid: b4b1420090be6dd4b8f270564fb53ab0, type: 2}
+  - {fileID: 11400000, guid: 594e5f9a52d9fb341b14014ef43f0cf7, type: 2}
+  - {fileID: 11400000, guid: 8e4bce5d449fa7a44b372ff70fd7b564, type: 2}
+  - {fileID: 11400000, guid: 2179adf68fc046e42ad700db881f0f94, type: 2}
+  - {fileID: 11400000, guid: 65bcf6c1156682d45ac7c913762c9561, type: 2}

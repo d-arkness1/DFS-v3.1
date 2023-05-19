@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
+  m_Name: Compliance
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 37f08ad845042ce4f9ee305215459533, type: 3}
+  description: "YokData is 100% GDPR compliant, ensuring user data privacy and protection\t"
+  identifiers: {fileID: 11400000, guid: bf66def00b469404e830cc2180742978, type: 2}
+  fields:
+  - {fileID: 11400000, guid: 562fa292f04592442be6cfdd27dbc9f0, type: 2}
+  - {fileID: 11400000, guid: fc9d39ee8676c0342b49e2609e068ddc, type: 2}
+  - {fileID: 11400000, guid: c95d200ed1eae4d4b8d09bf07239d922, type: 2}
+  - {fileID: 11400000, guid: 0123e69d00d418d4ba1df002c88b9ec7, type: 2}
+  - {fileID: 11400000, guid: 04e4c5de61319e94e995aa6ec36897cf, type: 2}
+  - {fileID: 11400000, guid: 94e6a23b8a7325b46b8b9c791126f570, type: 2}

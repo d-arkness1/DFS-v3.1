@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
+  m_Name: No Rights
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: 050974c8ef96db44994177f2599b2bc6, type: 3}
+  description: 'In the field of data privacy, a lack of rights or protections for
+    individuals can lead to severe consequences, such as privacy violations and identity
+    theft. To prevent these abuses, it is important to establish and enforce robust
+    data privacy laws and regulations that provide individuals with clear rights
+    and avenues for redress, as well as enforceable penalties for violations.
+
+
+
+'

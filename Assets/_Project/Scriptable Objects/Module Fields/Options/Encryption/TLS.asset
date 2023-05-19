@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
+  m_Name: TLS
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: 089c6160820cdea489f3a448130ffad0, type: 3}
+  description: a cryptographic protocol that is used to secure communications over
+    the internet. TLS is the successor to SSL (Secure Sockets Layer) and provides
+    authentication, confidentiality, and data integrity. TLS is commonly used to
+    secure e-commerce transactions, online banking, and other sensitive online communications.

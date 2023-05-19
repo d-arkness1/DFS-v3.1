@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
+  m_Name: Data Transfer Mechanism
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  description: 
+  identifiers: {fileID: 11400000, guid: eabd336022fb8424d82e3255d8248747, type: 2}
+  fields:
+  - {fileID: 11400000, guid: 3148eb6153dd9064ea20c839b3de9388, type: 2}
+  - {fileID: 11400000, guid: b7d7f4676fb3b8b4e88c393b6f144e22, type: 2}
+  - {fileID: 11400000, guid: 379555da555d9074ca7506f87b97ea95, type: 2}
+  - {fileID: 11400000, guid: b159da19a4094ab489ca8515e36d3d6f, type: 2}
+  - {fileID: 11400000, guid: a4c22bbe6874c5740bd25325e4603340, type: 2}

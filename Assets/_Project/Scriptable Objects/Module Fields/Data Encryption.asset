@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599834fad36d85f459ef1722ebb34745, type: 3}
+  m_Name: Data Encryption
+  m_EditorClassIdentifier: 
+  options:
+  - {fileID: 11400000, guid: 2201385624b3ae04c91b108c91443e19, type: 2}
+  - {fileID: 11400000, guid: a9360210261e41c4095733ea184f8df8, type: 2}
+  - {fileID: 11400000, guid: 1a547e123d26bf140a72a0d5db23db9e, type: 2}
+  - {fileID: 11400000, guid: 2e75f678b607214498fd80e9b4afc50e, type: 2}
+  - {fileID: 11400000, guid: 101049c670c503e4c8cfe12d7cbe6986, type: 2}
+  - {fileID: 11400000, guid: 9bc5aa0f6a6a41242aff188f6798f079, type: 2}
+  - {fileID: 11400000, guid: a79403a96da81f54ebc1decbef4e78e5, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599834fad36d85f459ef1722ebb34745, type: 3}
+  m_Name: Transport Encryption
+  m_EditorClassIdentifier: 
+  options:
+  - {fileID: 11400000, guid: facc70a3f7234264ca80f7133d162f7b, type: 2}
+  - {fileID: 11400000, guid: 9914c81719296b747976c834b24c716c, type: 2}
+  - {fileID: 11400000, guid: ae7087f1adbb28346a459965ac5526a4, type: 2}
+  - {fileID: 11400000, guid: 16692b807e142754b92f9d7ead00e376, type: 2}

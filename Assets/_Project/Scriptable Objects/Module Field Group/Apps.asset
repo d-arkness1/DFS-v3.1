@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
+  m_Name: Apps
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: e306770d22db16e448eb7a08cb846fe2, type: 3}
+  description: 'Select the process for obtaining personal data from your data subjects.
+
+'
+  dataSprites:
+  - {fileID: 21300000, guid: 4b0e2fce40b5a274b85769fb61d766c6, type: 3}
+  - {fileID: 21300000, guid: 70652f7b1d4b1fa439c68461ca68a7c8, type: 3}
+  - {fileID: 21300000, guid: 73924ba8584e6d54a84b32a843c2b89f, type: 3}
+  - {fileID: 21300000, guid: f5a6ad570a30a4242bd12bca474c765e, type: 3}
+  identifiers: {fileID: 11400000, guid: 37fced8fe67dc844fb643d3461b5812c, type: 2}
+  fields:
+  - {fileID: 11400000, guid: 1285c8bbe35d65a4f95206ade635a8e5, type: 2}
+  - {fileID: 11400000, guid: bf66def00b469404e830cc2180742978, type: 2}
+  - {fileID: 11400000, guid: 0ea42d8f6efed494095a57aac1ffece0, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
+  m_Name: Not Adequate
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: ca05a0b86686a1e4b9e1453f0e86ea60, type: 3}
+  description: A third country or territory outside the EEA has not been assessed
+    as providing a level of data protection that is essentially equivalent to that
+    provided in the EU. This means that personal data cannot be transferred to that
+    country without additional safeguards being put in place to protect the data.

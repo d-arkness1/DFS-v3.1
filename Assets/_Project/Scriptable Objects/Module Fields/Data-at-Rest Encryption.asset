@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599834fad36d85f459ef1722ebb34745, type: 3}
+  m_Name: Data-at-Rest Encryption
+  m_EditorClassIdentifier: 
+  options:
+  - {fileID: 11400000, guid: 29cfbedef49df974ba4ecc1d22e8b699, type: 2}
+  - {fileID: 11400000, guid: 18e829553948757479b054dc0f0c51b6, type: 2}
+  - {fileID: 11400000, guid: cf65fcfa69ff02f49b0f4a906f65634f, type: 2}
+  - {fileID: 11400000, guid: a25e8472ee0208047b3018e6d306af4c, type: 2}

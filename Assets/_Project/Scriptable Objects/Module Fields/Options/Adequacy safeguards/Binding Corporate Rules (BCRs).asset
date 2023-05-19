@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
+  m_Name: Binding Corporate Rules (BCRs)
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: 96eb8bf4844067f4298d974ceabf0959, type: 3}
+  description: BCRs are internal corporate policies that are designed to ensure that
+    personal data is processed in compliance with data protection regulations. They
+    are used to govern the transfer of personal data within multinational corporations
+    and can be authorized by supervisory authorities.

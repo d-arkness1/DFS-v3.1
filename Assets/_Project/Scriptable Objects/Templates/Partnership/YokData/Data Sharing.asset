@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
+  m_Name: Data Sharing
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: ef633b19107ee5846953db6e93543776, type: 3}
+  description: Users can share their encrypted files with others, and YokData's privacy
+    policy ensures that only authorized individuals or organizations have access
+    to the files.
+  identifiers: {fileID: 11400000, guid: 6598a75a0edafdf4181ea9428b34286d, type: 2}
+  fields:
+  - {fileID: 11400000, guid: 562fa292f04592442be6cfdd27dbc9f0, type: 2}
+  - {fileID: 11400000, guid: c95d200ed1eae4d4b8d09bf07239d922, type: 2}
+  - {fileID: 11400000, guid: bf66def00b469404e830cc2180742978, type: 2}

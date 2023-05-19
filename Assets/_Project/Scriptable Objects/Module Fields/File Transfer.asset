@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 599834fad36d85f459ef1722ebb34745, type: 3}
+  m_Name: File Transfer
+  m_EditorClassIdentifier: 
+  options:
+  - {fileID: 11400000, guid: 5f5bd71d5b09a394688ebb17bd8f9a57, type: 2}
+  - {fileID: 11400000, guid: aafd28e94e1dfbc48b2e11de4b8cba74, type: 2}
+  - {fileID: 11400000, guid: ca21a0937e60d54419324f8764161960, type: 2}
+  - {fileID: 11400000, guid: dba76d08e157aa74a84fa9cda74a3ee1, type: 2}
+  - {fileID: 11400000, guid: d00545d7e54cda94fbbeeb22ab771dda, type: 2}
+  - {fileID: 11400000, guid: b616de02e98930f49b4f46042812642a, type: 2}

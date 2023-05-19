@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
+  m_Name: Triple DES (3DES)
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: b303866dd5c48524db4fe211c06e48f6, type: 3}
+  description: a symmetric-key block cipher that is based on the DES algorithm. It
+    uses three different keys, each 56 bits long, to provide a higher level of security
+    than standard DES. Triple DES is often used in financial applications, as well
+    as in government and military settings.

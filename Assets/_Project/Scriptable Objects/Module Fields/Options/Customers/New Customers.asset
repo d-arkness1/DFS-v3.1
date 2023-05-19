@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
+  m_Name: New Customers
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: 5a9f58f8965799e47939c60fba02d74a, type: 3}
+  description: New Customers refer to individuals who have recently made a purchase
+    or signed up for a service and require assistance with the onboarding process,
+    account setup, or troubleshooting any issues that arise during the initial stages
+    of using the product or service.

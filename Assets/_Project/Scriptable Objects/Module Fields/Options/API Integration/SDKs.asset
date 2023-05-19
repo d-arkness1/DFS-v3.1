@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
+  m_Name: SDKs
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: 21300000, guid: 127bb4a78227b3c4f8bbbcaa2bdfe4ec, type: 3}
+  description: 'Software Development Kits (SDKs) are a set of tools and libraries
+    that enable developers to build applications that interact with an API. SDKs
+    typically provide a higher-level abstraction than raw API calls, making it easier
+    for developers to use the API.
+
+
+
+
+
+
+
+'

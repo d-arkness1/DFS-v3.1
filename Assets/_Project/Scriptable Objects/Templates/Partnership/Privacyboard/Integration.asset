@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
+  m_Name: Integration
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 27e3177c76ffe98458a6e13d8ab6484d, type: 3}
+  description: 'Integrating with third-party systems and tools such as CRMs, marketing
+    automation platforms, and analytics tools to ensure data privacy and compliance.
+
+    
+
+    
+
+'
+  identifiers: {fileID: 11400000, guid: da44e002b381f4141bd3c869e75663e6, type: 2}
+  fields:
+  - {fileID: 11400000, guid: 1d50a0e7f7b49df418ed0f02f4adad1c, type: 2}
+  - {fileID: 11400000, guid: f4af1da3347f22d47a80c1f098184a06, type: 2}
+  - {fileID: 11400000, guid: 34f046f937e76a1488d6ee3bc3e05ca7, type: 2}
+  - {fileID: 11400000, guid: 77fb990f820a46b44b3804d1b7a3fc47, type: 2}
