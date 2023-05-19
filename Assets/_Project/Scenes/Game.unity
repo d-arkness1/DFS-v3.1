@@ -1568,7 +1568,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1122901516}
   m_HandleRect: {fileID: 1122901515}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -2521,7 +2521,7 @@ RectTransform:
   m_GameObject: {fileID: 1256119408}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.85, y: 0.85, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6808569131018649689}
@@ -2574,7 +2574,6 @@ MonoBehaviour:
   - {fileID: 11400000, guid: bbae5e0d3de672a42b4caa6301e4f8d7, type: 2}
   - {fileID: 11400000, guid: 1a724acfbb6745a4aa1693489a183021, type: 2}
   - {fileID: 11400000, guid: 3197b59ffd33bbe4f8071e2359afb4ee, type: 2}
-  - {fileID: 11400000, guid: e600527119c648840aede3b4af47225c, type: 2}
   - {fileID: 11400000, guid: 8d2449ef4ac7f4b46b12e6228cdce88b, type: 2}
   - {fileID: 11400000, guid: 2a42f317bb0a67745bd97f16b9515543, type: 2}
   - {fileID: 11400000, guid: c22a5604ed73b4d4885828ba182a179e, type: 2}
@@ -4698,6 +4697,14 @@ PrefabInstance:
       value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 1389390864076576582, guid: 54d0e1959a650404e81123deac42c380, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389390864076576582, guid: 54d0e1959a650404e81123deac42c380, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 1389390864076576582, guid: 54d0e1959a650404e81123deac42c380, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -4864,7 +4871,7 @@ RectTransform:
   m_GameObject: {fileID: 7356883202707481866}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.85, y: 0.85, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 821857388504331404}
