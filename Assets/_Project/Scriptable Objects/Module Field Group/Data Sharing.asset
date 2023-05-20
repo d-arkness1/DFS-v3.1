@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
   m_Name: Data Sharing
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: ec09b50c6ee5e904d90b45e0294afd71, type: 3}
+  icon: {fileID: 21300000, guid: 9ff2f238db38d174ab8b290ea3b979b4, type: 3}
   description: 'Choose the specific third-party parties that will be authorized to
     access the personal data you have collected.
 

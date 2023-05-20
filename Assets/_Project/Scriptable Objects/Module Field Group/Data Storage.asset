@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
   m_Name: Data Storage
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: 7418fc749af7e5b49bb4f1af722ad532, type: 3}
+  icon: {fileID: 21300000, guid: d88c67fd36ca1174d99a3b484c2831c5, type: 3}
   description: 'Select the storage method that you will use for the personal data
     of your data subjects.
 

@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
   m_Name: Data Redaction
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: f7a4cca630bfab94da5d185b67e387e5, type: 3}
   description: 
+  dataSprites: []
   identifiers: {fileID: 11400000, guid: 5b4ebc5334309274bacd282adcc9f7e2, type: 2}
-  fields: []
+  fields:
+  - {fileID: 11400000, guid: ab62b4dd3fc7da9469e4e92edd5c60b8, type: 2}
