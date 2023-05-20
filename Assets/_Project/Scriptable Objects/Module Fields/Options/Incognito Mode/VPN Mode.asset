@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: VPN Mode
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 837b19c388ac1ee4e82fb072003e17fa, type: 3}
   description: A specialized privacy mode that uses the Tor network to provide anonymity
     and privacy by routing traffic through multiple servers.

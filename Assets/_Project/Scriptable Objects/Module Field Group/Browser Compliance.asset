@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
   m_Name: Browser Compliance
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: 53124d5595f723f4f8f82dd4d947268c, type: 3}
+  icon: {fileID: 21300000, guid: d9139f9a1012a9d469949bf87b664ee9, type: 3}
   description: 
   dataSprites:
   - {fileID: 21300000, guid: cb6c1c756807b8b46b6047b8eb63212e, type: 3}

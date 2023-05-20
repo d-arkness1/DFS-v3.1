@@ -12,20 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
   m_Name: Customer Service
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: c22f69686e88ebd46a76a83ac07eb124, type: 3}
+  icon: {fileID: 21300000, guid: 6d6d9c16fe273c04282b608ba5695962, type: 3}
   description: 'The data flow process of customer service involves collecting, storing,
     processing, and sharing customer data to address their needs in a timely manner
     while protecting their privacy. This includes data privacy awareness to ensure
     compliance with regulations. Effective data flow processes enable customer service
     companies to provide efficient support while keeping customer information secure.
 
-    
 
-    
 
-    
+
+
+
 
 '
+  dataSprites: []
   identifiers: {fileID: 11400000, guid: 9af1941a1171d2a4a99cd70cb904013e, type: 2}
   fields:
   - {fileID: 11400000, guid: 562fa292f04592442be6cfdd27dbc9f0, type: 2}

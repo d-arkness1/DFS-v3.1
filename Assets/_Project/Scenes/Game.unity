@@ -423,7 +423,7 @@ MonoBehaviour:
   m_Elasticity: 0.1
   m_Inertia: 1
   m_DecelerationRate: 0.135
-  m_ScrollSensitivity: 1
+  m_ScrollSensitivity: 50
   m_Viewport: {fileID: 2137448306}
   m_HorizontalScrollbar: {fileID: 1013596850}
   m_VerticalScrollbar: {fileID: 973641589}
@@ -2567,6 +2567,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   categories:
+  - {fileID: 11400000, guid: 7a57d2e55ae4bd64c8f9083fcb0ae178, type: 2}
   - {fileID: 11400000, guid: 14b5047516c641f4f9d870e494696cc8, type: 2}
   - {fileID: 11400000, guid: 87a89c261acd19f4794188cb360afd85, type: 2}
   - {fileID: 11400000, guid: c5adda0ea49e2e447bf4dd57f5697451, type: 2}
@@ -2575,19 +2576,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1a724acfbb6745a4aa1693489a183021, type: 2}
   - {fileID: 11400000, guid: 3197b59ffd33bbe4f8071e2359afb4ee, type: 2}
   - {fileID: 11400000, guid: 8d2449ef4ac7f4b46b12e6228cdce88b, type: 2}
-  - {fileID: 11400000, guid: 2a42f317bb0a67745bd97f16b9515543, type: 2}
   - {fileID: 11400000, guid: c22a5604ed73b4d4885828ba182a179e, type: 2}
   - {fileID: 11400000, guid: 5965e76cd94a4a6458806e3501e961c9, type: 2}
   - {fileID: 11400000, guid: 56b63432e3fd00d4f8a2939a81465538, type: 2}
   - {fileID: 11400000, guid: 547845552d94556449030c07c8690402, type: 2}
   - {fileID: 11400000, guid: 34da19eaca8d5b3428f30c7fee024c99, type: 2}
-  - {fileID: 11400000, guid: a115f701631c43141a8cff75d35a72a6, type: 2}
-  - {fileID: 11400000, guid: feac112321878fa4bbb0b639d7145419, type: 2}
-  - {fileID: 11400000, guid: c19b233899b468e4fbc46aa2fe486dca, type: 2}
-  - {fileID: 11400000, guid: b687a9f1828616c47816761fd8c6e49c, type: 2}
-  - {fileID: 11400000, guid: a25d0d34981e8d5489cc9215280cae5f, type: 2}
-  - {fileID: 11400000, guid: 10b630ac2b7e61d4cab28804d4070aa2, type: 2}
-  - {fileID: 11400000, guid: 7a57d2e55ae4bd64c8f9083fcb0ae178, type: 2}
   categoryPanelOptionParent: {fileID: 1118300482}
   categoryPanelOptionPrefab: {fileID: 3599066916190130162, guid: 96c6294a4ecd76647a2aca42c8da50fb, type: 3}
   onCategoryPanelOptionClick:

@@ -15,7 +15,7 @@ MonoBehaviour:
   icon: {fileID: 0}
   description: 
   dataSprites: []
-  identifiers: {fileID: 0}
+  identifiers: {fileID: 11400000, guid: 236b0df15bfebfd4a889ca727bad8d40, type: 2}
   fields:
   - {fileID: 11400000, guid: 896588af98abaf842850e212154fef08, type: 2}
   - {fileID: 11400000, guid: 5772b6a9e41dd6e468627bdbebcabf6b, type: 2}

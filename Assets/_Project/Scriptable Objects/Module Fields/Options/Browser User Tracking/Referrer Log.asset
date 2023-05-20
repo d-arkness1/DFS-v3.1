@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Referrer Log
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 215b8e4963563354181045d07580ef1c, type: 3}
   description: Collecting information about the web pages you visited before arriving
     at the current page to understand how you got there.

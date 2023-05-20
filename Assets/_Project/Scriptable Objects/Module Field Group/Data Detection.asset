@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
   m_Name: Data Detection
   m_EditorClassIdentifier: 
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: 8c06d0e9b22a47c48b85f68757594d0e, type: 3}
   description: 
+  dataSprites: []
   identifiers: {fileID: 0}
   fields: []

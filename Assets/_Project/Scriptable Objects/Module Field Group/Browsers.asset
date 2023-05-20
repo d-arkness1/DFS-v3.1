@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
   m_Name: Browsers
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: 3df616fbd177abe4ca82866b00ba2469, type: 3}
+  icon: {fileID: 21300000, guid: f435b94b8f02fd046b6ed94acc9f2a27, type: 3}
   description: 'A web browser is like a magic wand that grants you access to all
     the information and entertainment you could ever want.
 

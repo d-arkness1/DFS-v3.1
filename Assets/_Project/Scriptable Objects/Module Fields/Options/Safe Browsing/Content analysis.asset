@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Content analysis
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: c8bd0295147ae604e9efd5d9b3613d0e, type: 3}
   description: scans websites for harmful or inappropriate content, such as adult
     material or hate speech.

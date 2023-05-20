@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
   m_Name: Data Collection
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: e306770d22db16e448eb7a08cb846fe2, type: 3}
+  icon: {fileID: 21300000, guid: 54caa42cba8e36441855b4b587a39d48, type: 3}
   description: 'Select the process for obtaining personal data from your data subjects.
 
 '

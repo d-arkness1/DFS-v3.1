@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
   m_Name: Data Processing
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: 27e3177c76ffe98458a6e13d8ab6484d, type: 3}
+  icon: {fileID: 21300000, guid: 3eb153dbac2f14244a98bfb4b970a35a, type: 3}
   description: Select how you will process user data that you have collected
   dataSprites:
   - {fileID: 21300000, guid: 0b2988a779caff945a6773d208960b3a, type: 3}

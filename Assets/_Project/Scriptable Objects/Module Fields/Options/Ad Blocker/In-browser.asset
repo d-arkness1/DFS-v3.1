@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: In-browser
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 7cd09a70b92f52d43a53db552768c96d, type: 3}
   description: These are built into some browsers and can be turned on or off in
     the settings. They block ads in the browser but not in other applications on
     your computer.

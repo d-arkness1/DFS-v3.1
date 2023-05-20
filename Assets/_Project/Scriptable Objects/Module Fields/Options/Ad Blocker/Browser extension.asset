@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Browser extension
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 9cbed3b4e7db2604cab210b5bca56c25, type: 3}
   description: These are the most common type of ad blockers and are available as
     browser extensions. They block ads by intercepting the browser's requests to
     download ads and preventing them from being displayed.

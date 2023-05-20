@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Session Replay
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: e7abeaee97105f64289d57f9b96f2b57, type: 3}
   description: Tools used to record and replay a user's interaction with a website,
     often used for analysis and debugging, but can also be used for tracking.

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Social Media Tracking
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 776c1d7acf65da549a5b971a52032db2, type: 3}
   description: Using social media widgets (such as the Facebook Like button) to track
     your online activity even when you're not on social media platforms

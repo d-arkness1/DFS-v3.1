@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Strict Tracking Protection
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 4f760294279b98b44951e7fe1eeae82f, type: 3}
   description: A privacy mode that blocks all tracking scripts, cookies, and other
     trackers to prevent websites from tracking user activity.

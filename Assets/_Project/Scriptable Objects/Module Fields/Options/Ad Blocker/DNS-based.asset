@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: DNS-based
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 468087e5eba43a34f9fce874bb4e72cc, type: 3}
   description: These work by redirecting requests for ad servers to a null address,
     effectively blocking the ads from being downloaded. They can be implemented by
     using a custom DNS server or by using a browser extension that redirects DNS

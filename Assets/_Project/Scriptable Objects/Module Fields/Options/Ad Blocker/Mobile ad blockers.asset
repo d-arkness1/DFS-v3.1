@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Mobile ad blockers
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 0e5b562ba9d3e2745a39488e81937edf, type: 3}
   description: These are designed specifically for mobile devices and can block ads
     in mobile apps as well as in mobile browsers

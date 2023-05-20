@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Network-level
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 1a2cf0e8dcf80c844900e59c2130f6ef, type: 3}
   description: These work at the network level and block ads before they even reach
     your browser. They can be implemented by modifying the hosts file on your computer
     or by using a custom DNS server.

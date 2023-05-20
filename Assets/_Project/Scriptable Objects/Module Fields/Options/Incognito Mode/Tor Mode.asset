@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Tor Mode
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 56e2ea3339d21f54fbd6a7826f1e45c7, type: 3}
   description: A privacy mode that allows users to connect to a virtual private network
     (VPN) to encrypt their traffic and hide their IP address.

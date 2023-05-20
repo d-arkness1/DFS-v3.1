@@ -12,9 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 690189d414f443d40847ff290190f1ce, type: 3}
   m_Name: Consent Form
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: 53124d5595f723f4f8f82dd4d947268c, type: 3}
+  icon: {fileID: 21300000, guid: 25fae1c34bbf0e245899fc950d419092, type: 3}
   description: Choose a consent form. Which outlines the conditions under which their
     personal data will be collected, processed, and shared.
+  dataSprites: []
   identifiers: {fileID: 11400000, guid: b579bab4765623840b0a48e058690e83, type: 2}
   fields:
   - {fileID: 11400000, guid: 562fa292f04592442be6cfdd27dbc9f0, type: 2}

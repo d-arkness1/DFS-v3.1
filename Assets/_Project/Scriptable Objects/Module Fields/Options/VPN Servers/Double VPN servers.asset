@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Double VPN servers
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 0}
+  itemImage: {fileID: 21300000, guid: 8f5aa2bb851c4de4599ce50fd9e7545c, type: 3}
   description: also known as multi-hop servers, these servers route user traffic
     through two or more VPN servers, encrypting it multiple times for added security.
