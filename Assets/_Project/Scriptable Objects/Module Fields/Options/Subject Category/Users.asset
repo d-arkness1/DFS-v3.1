@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Users
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 21300000, guid: ff41fb51b0f817e4ca6fcca2fd128055, type: 3}
+  itemImage: {fileID: 21300000, guid: a1830f5ad98bd0b42b4134e71ce66a92, type: 3}
   description: Individuals who use mobile applications, including both free and paid
     apps.

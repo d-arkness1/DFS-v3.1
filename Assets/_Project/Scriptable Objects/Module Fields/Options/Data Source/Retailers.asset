@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Retailers
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 21300000, guid: de9252e0fc8604d489c1af29f207d07f, type: 3}
+  itemImage: {fileID: 21300000, guid: 4c617a83743c9d644abcc30a9c1a7264, type: 3}
   description: 'Retailers often collect user data through loyalty programs, online
     purchases, and customer feedback. '

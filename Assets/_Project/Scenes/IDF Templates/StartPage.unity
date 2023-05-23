@@ -2682,12 +2682,11 @@ MonoBehaviour:
   categories:
   - {fileID: 11400000, guid: 7a57d2e55ae4bd64c8f9083fcb0ae178, type: 2}
   - {fileID: 11400000, guid: c5adda0ea49e2e447bf4dd57f5697451, type: 2}
-  - {fileID: 11400000, guid: c22a5604ed73b4d4885828ba182a179e, type: 2}
   - {fileID: 11400000, guid: 8d2449ef4ac7f4b46b12e6228cdce88b, type: 2}
   - {fileID: 11400000, guid: 547845552d94556449030c07c8690402, type: 2}
   - {fileID: 11400000, guid: 34da19eaca8d5b3428f30c7fee024c99, type: 2}
+  - {fileID: 11400000, guid: c22a5604ed73b4d4885828ba182a179e, type: 2}
   - {fileID: 11400000, guid: 56b63432e3fd00d4f8a2939a81465538, type: 2}
-  - {fileID: 11400000, guid: 5965e76cd94a4a6458806e3501e961c9, type: 2}
   categoryPanelOptionParent: {fileID: 1118300482}
   categoryPanelOptionPrefab: {fileID: 3599066916190130162, guid: 96c6294a4ecd76647a2aca42c8da50fb, type: 3}
   onCategoryPanelOptionClick:

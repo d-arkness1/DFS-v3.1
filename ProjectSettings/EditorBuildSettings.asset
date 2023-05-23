@@ -12,15 +12,6 @@ EditorBuildSettings:
     path: Assets/_Project/Scenes/Disclaimer.unity
     guid: 1c441ffb3bb018547a0ad09f542c6754
   - enabled: 1
-    path: Assets/_Project/Scenes/Playtest.unity
-    guid: d55c2f4077845ca4a81866bb1f2b8037
-  - enabled: 0
     path: Assets/_Project/Scenes/IDF Templates/StartPage.unity
     guid: ea77a23b0836d6746a85d5b7532b7389
-  - enabled: 0
-    path: Assets/_Project/Scenes/Menu.unity
-    guid: 583557acc6e713047b51e93cc244d6d4
-  - enabled: 0
-    path: Assets/_Project/Scenes/Templates Menu.unity
-    guid: af466b8025e4ca24eb18e97530aa1ed7
   m_configObjects: {}

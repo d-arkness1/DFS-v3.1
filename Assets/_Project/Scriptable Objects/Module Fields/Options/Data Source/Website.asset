@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Website
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 21300000, guid: 62fc98b67e7e79e4c8050ab80d9d7692, type: 3}
+  itemImage: {fileID: 21300000, guid: c7fcef6832cf09046b4bd0d2f98e38a4, type: 3}
   description: 'Websites collect user data such as browsing behavior, location, and
     personal information in order to provide a personalized experience and track
     website performance. '

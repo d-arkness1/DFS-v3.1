@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: Voter Registration
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 21300000, guid: a3239d4a25631b44285eb0bbff62f6ca, type: 3}
+  itemImage: {fileID: 21300000, guid: f9da6a64a328efa4eacf8975b4a54cd2, type: 3}
   description: Voter registration data is collected in order to verify voter eligibility,
     maintain accurate voting records, and provide voting services.

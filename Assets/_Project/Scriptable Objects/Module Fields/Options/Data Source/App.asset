@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd5b4e92eab39724c9b0824c80029809, type: 3}
   m_Name: App
   m_EditorClassIdentifier: 
-  itemImage: {fileID: 21300000, guid: a95e1cafa9ba0c1418eee81e8d853144, type: 3}
+  itemImage: {fileID: 21300000, guid: 776c1d7acf65da549a5b971a52032db2, type: 3}
   description: 'Many apps collect user data in order to personalize the user experience
     and provide more relevant content or services. '
