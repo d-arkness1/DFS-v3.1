@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/_Project/Scenes/Disclaimer.unity
     guid: 1c441ffb3bb018547a0ad09f542c6754
   - enabled: 1
-    path: Assets/_Project/Scenes/IDF Templates/StartPage.unity
-    guid: ea77a23b0836d6746a85d5b7532b7389
+    path: Assets/_Project/Scenes/IDF Templates/SurfShark.unity
+    guid: 0e703ce297aecb047b36115b53f1d346
+  - enabled: 0
+    path: Assets/_Project/Scenes/IDF Templates/Browser.unity
+    guid: 16bd584db7285dd45bd93cca556aeeac
   m_configObjects: {}

@@ -13,11 +13,19 @@ MonoBehaviour:
   m_Name: Browser Compliance
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: d9139f9a1012a9d469949bf87b664ee9, type: 3}
-  description: 
+  description: he process of ensuring that a web browser meets the requirements of
+    a particular data privacy law or regulation.
   dataSprites:
-  - {fileID: 21300000, guid: cb6c1c756807b8b46b6047b8eb63212e, type: 3}
-  - {fileID: 21300000, guid: 20baec797301dc842b1a4c8eb092dd9a, type: 3}
-  - {fileID: 21300000, guid: 5ef4cf6d5e4fbfa44921f5360cf25bad, type: 3}
+  - {fileID: 21300000, guid: 0b2988a779caff945a6773d208960b3a, type: 3}
+  - {fileID: 21300000, guid: b4d8ef702dd3e6f468794de9a2659698, type: 3}
+  - {fileID: 21300000, guid: 5261e5cabfa64fe4f9b780091cefc036, type: 3}
+  - {fileID: 21300000, guid: eb6114e6814877340812974b05ce3df3, type: 3}
+  - {fileID: 21300000, guid: 265c627542e3d2d45aa2cf800409d8d2, type: 3}
+  - {fileID: 21300000, guid: ac5403ea3ea80304cb4d97b2ed71b1a8, type: 3}
+  - {fileID: 21300000, guid: 3014f35522103bd42a6fe54e87d304e3, type: 3}
+  - {fileID: 21300000, guid: bbff85818dc3b3041991cdaf2421f3a3, type: 3}
+  - {fileID: 21300000, guid: 01a23332eb497d349a9062be8e6544ce, type: 3}
+  - {fileID: 21300000, guid: 0236f52cb0e04724ca151f710adbc6cb, type: 3}
   identifiers: {fileID: 11400000, guid: bf66def00b469404e830cc2180742978, type: 2}
   fields:
   - {fileID: 11400000, guid: 562fa292f04592442be6cfdd27dbc9f0, type: 2}

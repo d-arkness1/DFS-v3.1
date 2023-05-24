@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: TikTok
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 9a29f8910625fe845a218c5270918082, type: 3}
-  description: 
+  description: A social media platform that allows users to create and share short
+    videos.
+  dataSprites: []
   identifiers: {fileID: 11400000, guid: ab62b4dd3fc7da9469e4e92edd5c60b8, type: 2}
   fields:
   - {fileID: 11400000, guid: 204a0972864dad843801235c38479a8d, type: 2}
